@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/document" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/django_document" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.2 virtualenv at /usr/local/var/pyenv/versions/fc-django-document" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
